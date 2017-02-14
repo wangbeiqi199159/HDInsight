@@ -138,6 +138,10 @@ Create `Data Source`, do remember your `Storage Account Name` and `Container Nam
 
 [![12.png](https://s2.postimg.org/484afloxl/image.png)](https://postimg.org/image/8h90hrs6t/)
 
+  * Here are the screen shots of the result.
+ 
+[![14.png](https://s12.postimg.org/t5d1kn14t/image.png)](https://postimg.org/image/3mkp7mhkp/)
+
 ## Deleting the HDInsight cluster
 
 To delete the cluster, click **Delete** under the cluster Overview page. Then click **Yes**.
