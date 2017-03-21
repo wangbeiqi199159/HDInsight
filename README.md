@@ -1,4 +1,11 @@
 # Run Pig jobs using Visual Studio and C# (.NET SDK) in Azure HDInsight
+
+## Introduction to Hadoop on HDInsight
+
+Hadoop refers to an ecosystem of open-source software that is a framework for distributed processing, storing, and analysis of big data sets on clusters of computers. Azure HDInsight makes the Hadoop components from the Hortonworks Data Platform (HDP) distribution available in the cloud, deploys managed clusters with high reliability and availability, and provides enterprise-grade security and governance with Active Directory.
+
+Apache Hadoop was the original open-source project for big data processing. Following was the development of related software and utilities considered part of the Hadoop technology stack, including Apache Hive, Apache HBase, Apache Spark, Apache Kafka, and many others. For more details, click [here](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-introduction).
+
 ## Prerequisites
 
 To complete the steps in this article, you need the following:
